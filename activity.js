@@ -140,7 +140,7 @@ ctx.fillRect(
 }
 
 if (gameState === "characterSelect") {
-    // здесь нарисуем выбор персонажа
+    
 
     requestAnimationFrame(gameloop);
     return;
