@@ -138,7 +138,7 @@ ctx.fillRect(
     return;
 }
 
-if (gameState === "characterSelect") {
+
     
 
     requestAnimationFrame(gameloop);
