@@ -74,8 +74,7 @@ canvas.addEventListener("click", function(event) {
     mouseY > button.y &&
     mouseY < button.y + button.height
 ) {
-gameState = "characterSelect";
-}
+
 });
 
 
